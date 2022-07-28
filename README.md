@@ -1,1 +1,7 @@
-# Yummy - Recipe managment made easy
+# Ultimate starter
+
+- React
+- Tailwind
+- Google auth
+- MongoDB
+- React query
